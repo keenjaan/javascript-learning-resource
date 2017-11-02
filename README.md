@@ -8,6 +8,7 @@
 
 [30分钟掌握ES6/ES2015核心内容](http://www.jianshu.com/p/ebfeb687eb70)
 
+  
 
 
 **web安全**
@@ -24,7 +25,7 @@
 
 [XSS解决方案系列之一：淘宝、百度、腾讯的解决方案之瑕疵](http://www.freebuf.com/articles/web/9928.html)
 
-
+  
 
 **浏览器渲染原理**
 
