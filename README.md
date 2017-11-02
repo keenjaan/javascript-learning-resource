@@ -10,6 +10,16 @@
 
 [前端安全知识](https://juejin.im/post/59dc2b7a6fb9a0451869ae3a)
 
+[Web安全的三个攻防姿势](https://juejin.im/post/59e6b21bf265da43247f861d)
+
 [前端——影子杀手篇](https://juejin.im/post/59dc353351882569277ccbc1)
 
 [如何防范常见的Web攻击](http://blog.720ui.com/2016/security_web/)
+
+[防御XSS的七条原则](http://www.freebuf.com/articles/web/9977.html)
+
+
+**浏览器渲染原理**
+
+[「前端那些事儿」① 浏览器渲染引擎](https://juejin.im/post/59f5bbdb6fb9a0451968d851)
+
