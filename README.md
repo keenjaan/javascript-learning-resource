@@ -8,7 +8,7 @@
 
 [30分钟掌握ES6/ES2015核心内容](http://www.jianshu.com/p/ebfeb687eb70)
 
-<br>
+
 
 **web安全**
 
