@@ -25,9 +25,27 @@
 
 [XSS解决方案系列之一：淘宝、百度、腾讯的解决方案之瑕疵](http://www.freebuf.com/articles/web/9928.html)
 
-  
+
+
+
+  **javascript运行机制与Event Loop**
+
+  [JavaScript 运行机制详解：再谈Event Loop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+
+[JavaScript并发模型与Event Loop](https://juejin.im/post/59b499a8f265da0656043567)
+
+[Js 运行机制深层剖析](https://juejin.im/post/594156e6fe88c2006a4e5235)
+
+[从event loop看vue的nextTick](https://juejin.im/post/59b499e86fb9a00a4e677825)
+
+[ js 基础 】 setTimeout(fn, 0) 的作用](https://juejin.im/post/59c25c936fb9a00a3f24e114)
+
+
+
 
 **浏览器渲染原理**
+
+[浏览器的渲染：过程与原理](https://zhuanlan.zhihu.com/p/29418126)
 
 [「前端那些事儿」① 浏览器渲染引擎](https://juejin.im/post/59f5bbdb6fb9a0451968d851)
 
