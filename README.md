@@ -1,6 +1,6 @@
 自己在学习js过程中遇到的一些优秀的javascript文章，供大家学习、参考。
 
-
+<br>
 
 **es6学习资源**
 
@@ -9,7 +9,7 @@
 [30分钟掌握ES6/ES2015核心内容](http://www.jianshu.com/p/ebfeb687eb70)
 
   
-
+<br>
 
 **web安全**
 
@@ -26,7 +26,7 @@
 [XSS解决方案系列之一：淘宝、百度、腾讯的解决方案之瑕疵](http://www.freebuf.com/articles/web/9928.html)
 
 
-
+<br>
 
   **javascript运行机制与Event Loop**
 
@@ -40,7 +40,7 @@
 
 [ js 基础 】 setTimeout(fn, 0) 的作用](https://juejin.im/post/59c25c936fb9a00a3f24e114)
 
-
+<br>
 
 
 **浏览器渲染原理**
@@ -49,7 +49,7 @@
 
 [「前端那些事儿」① 浏览器渲染引擎](https://juejin.im/post/59f5bbdb6fb9a0451968d851)
 
-
+<br>
 
 **谷歌浏览器调试**
 
