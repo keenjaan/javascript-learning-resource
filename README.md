@@ -31,3 +31,9 @@
 
 [「前端那些事儿」① 浏览器渲染引擎](https://juejin.im/post/59f5bbdb6fb9a0451968d851)
 
+
+
+**谷歌浏览器调试**
+
+[web调试优化-chrome开发者工具不完全指南](https://juejin.im/post/59ffad656fb9a0450b65c4c0?utm_source=gold_browser_extension)
+
