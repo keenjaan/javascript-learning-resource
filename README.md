@@ -37,3 +37,5 @@
 
 [web调试优化-chrome开发者工具不完全指南](https://juejin.im/post/59ffad656fb9a0450b65c4c0?utm_source=gold_browser_extension)
 
+[chrome浏览器中的Timing详情说明](http://blog.csdn.net/itpinpai/article/details/52574385)
+
