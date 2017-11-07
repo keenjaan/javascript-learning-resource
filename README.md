@@ -8,7 +8,7 @@
 
 [30分钟掌握ES6/ES2015核心内容](http://www.jianshu.com/p/ebfeb687eb70)
 
-  
+
 <br>
 
 **web安全**
@@ -56,4 +56,12 @@
 [web调试优化-chrome开发者工具不完全指南](https://juejin.im/post/59ffad656fb9a0450b65c4c0?utm_source=gold_browser_extension)
 
 [chrome浏览器中的Timing详情说明](http://blog.csdn.net/itpinpai/article/details/52574385)
+
+[Chrome浏览器调试技巧](http://blog.csdn.net/u014727260/article/details/53231298)
+
+[超完整的Chrome浏览器客户端调试大全](http://www.igeekbar.com/igeekbar/post/156.htm?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
+
+[Chrome 实用调试技巧](https://juejin.im/entry/5804669f570c35006c828548)
+
+[chrome调试工具常用功能整理](https://www.shiyanlou.com/questions/2202)
 
