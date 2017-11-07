@@ -65,3 +65,7 @@
 
 [chrome调试工具常用功能整理](https://www.shiyanlou.com/questions/2202)
 
+[chrome浏览器如何断点调试异步加载的JS](http://www.jb51.net/article/91949.htm)
+
+[使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
+
