@@ -38,7 +38,9 @@
 
 [从event loop看vue的nextTick](https://juejin.im/post/59b499e86fb9a00a4e677825)
 
-[ js 基础 】 setTimeout(fn, 0) 的作用](https://juejin.im/post/59c25c936fb9a00a3f24e114)
+[ 【js 基础 】 setTimeout(fn, 0) 的作用](https://juejin.im/post/59c25c936fb9a00a3f24e114)
+
+[继microtask后，再谈event loop](https://juejin.im/entry/5a0032236fb9a044fd1127d6?utm_source=gold_browser_extension)
 
 <br>
 
