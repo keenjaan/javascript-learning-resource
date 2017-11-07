@@ -76,3 +76,9 @@
 **react组件篇**
 
 [组件库设计实战系列：复杂组件设计](https://juejin.im/post/5a0112eaf265da431b6c9c0d?utm_source=gold_browser_extension)
+
+<br>
+
+**Vue + Typescript配置**
+
+[Vue + TypeScript 新项目起手式](https://juejin.im/post/59f29d28518825549f7260b6)
