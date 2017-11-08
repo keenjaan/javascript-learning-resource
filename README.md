@@ -83,5 +83,12 @@
 
 [Vue + TypeScript 新项目起手式](https://juejin.im/post/59f29d28518825549f7260b6)
 
-[Vue2.5+ Typescript 引入全面指南 - Vuex篇](https://mp.weixin.qq.com/s?__biz=MzU4MzIzMjg1MA==&mid=2247484030&idx=1&sn=40082e346c9ab67560596415a8e4ebb3&chksm=fdad7e43cadaf755680c7b019e9a4143f58a97c8cf7de6483d025f729ebf4e3a84bdab01a860&mpshare=1&scene=23&srcid=1107ySpzzFXzJ6hftxfX0fpf#rd)
+[Vue2.5+ Typescript 引入全面指南](https://segmentfault.com/a/1190000011853167?utm_source=tuicool&utm_medium=referral)
 
+[Vue2.5+ Typescript 引入全面指南 - Vuex篇](https://segmentfault.com/a/1190000011864013)
+
+<br>
+
+**Typescript教程**
+
+[从 JavaScript 到 TypeScript](https://tasaid.com/blog/20171011231943.html)
