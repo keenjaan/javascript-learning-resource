@@ -82,6 +82,12 @@
 
 <br>
 
+**vue**
+
+[Vue 脱坑记](https://juejin.im/post/59fa9257f265da43062a1b0e?utm_source=gold_browser_extension)
+
+<br>
+
 **Vue + Typescript配置**
 
 [Vue + TypeScript 新项目起手式](https://juejin.im/post/59f29d28518825549f7260b6)
