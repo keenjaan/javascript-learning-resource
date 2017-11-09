@@ -8,6 +8,9 @@
 
 [30分钟掌握ES6/ES2015核心内容](http://www.jianshu.com/p/ebfeb687eb70)
 
+[Promise 必知必会（十道题）](https://juejin.im/post/5a04066351882517c416715d?utm_source=gold_browser_extension)
+
+
 
 <br>
 
