@@ -113,3 +113,10 @@
 **webpack教程**
 
 [Webpack-源码三，从源码分析如何写一个plugin](https://juejin.im/entry/5a03a7a7f265da43094498f6?utm_source=gold_browser_extension)
+
+<br>
+
+**js常见函数及功能**
+
+[打造自己的JavaScript武器库](https://juejin.im/post/5a091afe6fb9a044ff30f402?utm_source=gold_browser_extension)
+
