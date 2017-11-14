@@ -125,3 +125,10 @@
 **前端框架思想**
 
 [不吹不黑聊聊前端框架--尤雨溪知乎Live整理](https://juejin.im/entry/5a064a716fb9a045117099ad?utm_source=gold_browser_extension)
+
+<br>
+
+**js框架和库源码解析**
+
+[Underscore.js 源码解读 & 系列文章](https://github.com/hanzichi/underscore-analysis)
+
