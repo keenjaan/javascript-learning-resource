@@ -136,7 +136,11 @@
 
 **webpack教程**
 
+[Webpack 2 前端开发教程(视频)](https://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1)
+
 [webpack打包原理和manifest文件分析](http://blog.csdn.net/lancewu0907/article/details/76513231)
+
+[webpack打包-模块分布解析](https://cnodejs.org/topic/5867bb575eac96bb04d3e301)
 
 
 
