@@ -142,5 +142,5 @@
 
 [webpack打包-模块分布解析](https://cnodejs.org/topic/5867bb575eac96bb04d3e301)
 
-
+[webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-source-analyse.html)
 
