@@ -132,3 +132,11 @@
 
 [Underscore.js 源码解读 & 系列文章](https://github.com/hanzichi/underscore-analysis)
 
+<br>
+
+**webpack教程**
+
+[webpack打包原理和manifest文件分析](http://blog.csdn.net/lancewu0907/article/details/76513231)
+
+
+
