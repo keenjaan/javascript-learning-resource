@@ -136,6 +136,8 @@
 
 **webpack教程**
 
+[搜罗一切webpack的好文章好工具](https://github.com/webpack-china/awesome-webpack-cn)
+
 [Webpack 2 前端开发教程(视频)](https://list.youku.com/albumlist/show?id=49394464&ascending=1&page=1)
 
 [webpack打包原理和manifest文件分析](http://blog.csdn.net/lancewu0907/article/details/76513231)
