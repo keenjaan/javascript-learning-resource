@@ -152,6 +152,8 @@
 
 **Webpack打包性能问题**
 
+[webpack2 终极优化](http://imweb.io/topic/5868e1abb3ce6d8e3f9f99bb)
+
 [彻底解决Webpack打包性能问题](https://zhuanlan.zhihu.com/p/21748318)
 
 [提高 webpack 构建 Vue 项目的速度](https://zhuanlan.zhihu.com/p/26174425)
