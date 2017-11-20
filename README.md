@@ -150,6 +150,18 @@
 
 <br>
 
+**Webpack打包性能问题**
+
+[彻底解决Webpack打包性能问题](https://zhuanlan.zhihu.com/p/21748318)
+
+[提高 webpack 构建 Vue 项目的速度](https://zhuanlan.zhihu.com/p/26174425)
+
+[webpack进阶——DllPlugin优化打包性能（基于vue-cli）](http://blog.csdn.net/u011649976/article/details/77076212)
+
+[详解基于vue-cli优化的webpack配置](http://www.jb51.net/article/127598.htm)
+
+<br>
+
 **动态路由**
 
 [Miox带你走进动态路由的世界](https://juejin.im/post/5a0eee94f265da430702d8e0?utm_source=gold_browser_extension)
