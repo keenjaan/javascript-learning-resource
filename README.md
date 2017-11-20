@@ -158,9 +158,13 @@
 
 [提高 webpack 构建 Vue 项目的速度](https://zhuanlan.zhihu.com/p/26174425)
 
+[vue-cli配置webpack dll](https://segmentfault.com/a/1190000009799021)
+
 [webpack进阶——DllPlugin优化打包性能（基于vue-cli）](http://blog.csdn.net/u011649976/article/details/77076212)
 
 [详解基于vue-cli优化的webpack配置](http://www.jb51.net/article/127598.htm)
+
+[一次优化webpack打包的经历](http://blog.csdn.net/xiyang5678/article/details/70231399)
 
 <br>
 
