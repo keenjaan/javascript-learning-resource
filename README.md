@@ -132,6 +132,8 @@
 
 [Underscore.js 源码解读 & 系列文章](https://github.com/hanzichi/underscore-analysis)
 
+[如何实现一个 Virtual DOM 算法](https://www.w3cplus.com/javascript/Virtual-DOM-diff.html)
+
 <br>
 
 **webpack教程**
