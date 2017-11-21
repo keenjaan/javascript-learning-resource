@@ -156,6 +156,8 @@
 
 [彻底解决Webpack打包性能问题](https://zhuanlan.zhihu.com/p/21748318)
 
+[webpack 构建性能优化策略小结](https://segmentfault.com/a/1190000007891318)
+
 [提高 webpack 构建 Vue 项目的速度](https://zhuanlan.zhihu.com/p/26174425)
 
 [vue-cli配置webpack dll](https://segmentfault.com/a/1190000009799021)
