@@ -92,6 +92,8 @@
 
 [Vue 脱坑记](https://juejin.im/post/59fa9257f265da43062a1b0e?utm_source=gold_browser_extension)
 
+[如何写一手漂亮的 Vue](https://jeffjade.com/2017/03/11/120-how-to-write-vue-better/)
+
 <br>
 
 **Vue + Typescript配置**
