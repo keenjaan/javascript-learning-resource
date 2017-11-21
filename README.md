@@ -148,6 +148,8 @@
 
 [webpack 源码解析](https://lihuanghe.github.io/2016/05/30/webpack-source-analyse.html)
 
+[使用可视化图表对 Webpack 2 的编译与打包进行统计分析](http://www.cnblogs.com/libin-1/p/7027164.html)
+
 <br>
 
 **Webpack打包性能问题**
