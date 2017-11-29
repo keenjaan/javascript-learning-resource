@@ -184,6 +184,12 @@
 
 <br>
 
+**webpack插件系列**
+[webpack 插件拾趣 (1) —— webpack-dev-server](https://www.cnblogs.com/vajoy/p/7000522.html)
+
+[webpack-dev-server官方文档](https://webpack.github.io/docs/webpack-dev-server.html)
+<br>
+
 **动态路由**
 
 [Miox带你走进动态路由的世界](https://juejin.im/post/5a0eee94f265da430702d8e0?utm_source=gold_browser_extension)
