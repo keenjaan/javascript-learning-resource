@@ -8,6 +8,8 @@
 
 [JavaScript中,{}+{}等于多少?](http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html)
 
+[JavaScript中{}+{}](http://www.cnblogs.com/puyongsong/p/5968976.html)
+
 [javascript双等号引起的类型转换，js隐性类型转换步骤](http://www.haorooms.com/post/js_yinxingleixing)
 
 <br>
