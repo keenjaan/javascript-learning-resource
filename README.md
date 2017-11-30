@@ -104,6 +104,8 @@
 
 [Vue 脱坑记](https://juejin.im/post/59fa9257f265da43062a1b0e?utm_source=gold_browser_extension)
 
+[Vue 源码解析：深入响应式原理（中）](http://www.imooc.com/article/14467)
+
 <br>
 
 **Vue + Typescript配置**
