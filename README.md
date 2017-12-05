@@ -112,6 +112,8 @@
 
 [Vue + TypeScript 新项目起手式](https://juejin.im/post/59f29d28518825549f7260b6)
 
+[vue + typescript 进阶篇](https://juejin.im/post/5a001f886fb9a0450908e508)
+
 [Vue2.5+ Typescript 引入全面指南](https://segmentfault.com/a/1190000011853167?utm_source=tuicool&utm_medium=referral)
 
 [Vue2.5+ Typescript 引入全面指南 - Vuex篇](https://segmentfault.com/a/1190000011864013)
