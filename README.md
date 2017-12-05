@@ -122,6 +122,8 @@
 
 [从 JavaScript 到 TypeScript](https://tasaid.com/blog/20171011231943.html)
 
+[如何编写一个d.ts文件](https://segmentfault.com/a/1190000009247663)
+
 <br>
 
 **webpack教程**
