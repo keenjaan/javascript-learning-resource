@@ -4,6 +4,8 @@
 
 **js基础**
 
+[es5文档](http://yanhaijing.com/es5/#about)
+
 [js中的内置对象](https://www.cnblogs.com/liuluteresa/p/6413988.html)
 
 [JavaScript中,{}+{}等于多少?](http://www.cnblogs.com/ziyunfei/archive/2012/09/15/2685885.html)
