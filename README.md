@@ -12,6 +12,8 @@
 
 [JavaScript中{}+{}](http://www.cnblogs.com/puyongsong/p/5968976.html)
 
+[js抽象比较](https://segmentfault.com/q/1010000000305997)
+
 [javascript双等号引起的类型转换，js隐性类型转换步骤](http://www.haorooms.com/post/js_yinxingleixing)
 
 <br>
