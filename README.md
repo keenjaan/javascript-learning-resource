@@ -209,3 +209,21 @@
 **好的博客**
 
 http://www.cnblogs.com/vajoy/
+
+<br>
+
+**nuxt系列教程**
+
+[深入NUXT，看看一条命令行的背后到底发生了什么](https://segmentfault.com/a/1190000008114613)
+
+[美团点评点餐 Nuxt.js 实战](https://juejin.im/post/598aabe96fb9a03c335a8dde)
+
+[基于 vue + nuxt 打造 o2o 教育商城系统（触屏版） 服务端渲染SSR](https://github.com/github1586/nuxt-bnhcp)
+
+[nuxt(vue) + koa + mongo 写blog的一次小结](https://juejin.im/post/59ce4c6e6fb9a00a5e35fc0e)
+
+[关于Vue服务端渲染（nuxt）的简单学习](https://juejin.im/post/59e018dbf265da4309442b4e)
+
+[用 Nuxt 开发部署一个 v2ex](https://orangexc.xyz/2017/06/19/N2ex/?utm_source=gank.io&utm_medium=email)
+
+[next.js、nuxt.js等服务端渲染框架构建的项目部署到服务器，并用PM2守护程序](https://segmentfault.com/a/1190000012774650)
