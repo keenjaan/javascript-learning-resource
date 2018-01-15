@@ -237,3 +237,5 @@ http://www.cnblogs.com/vajoy/
 [node-cache 模块 node.js 轻量级缓存管理使用及源码分析](http://yijiebuyi.com/blog/c37a444faab98617a98098f7a29e09db.html)
 
 [在Node.js中搭建缓存管理模块](http://www.infoq.com/cn/articles/built-cache-management-module-in-nodejs/)
+
+[Node.js服务器启用Gzip压缩](https://www.jianshu.com/p/1c9909f9b0e9)
