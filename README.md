@@ -227,3 +227,13 @@ http://www.cnblogs.com/vajoy/
 [用 Nuxt 开发部署一个 v2ex](https://orangexc.xyz/2017/06/19/N2ex/?utm_source=gank.io&utm_medium=email)
 
 [next.js、nuxt.js等服务端渲染框架构建的项目部署到服务器，并用PM2守护程序](https://segmentfault.com/a/1190000012774650)
+
+<br>
+
+**node项目缓存**
+
+[Node.js实现浏览器缓存](http://www.cnblogs.com/MissFelicia/p/6434157.html)
+
+[node-cache 模块 node.js 轻量级缓存管理使用及源码分析](http://yijiebuyi.com/blog/c37a444faab98617a98098f7a29e09db.html)
+
+[在Node.js中搭建缓存管理模块](http://www.infoq.com/cn/articles/built-cache-management-module-in-nodejs/)
