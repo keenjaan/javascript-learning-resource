@@ -269,3 +269,13 @@ http://www.cnblogs.com/vajoy/
 [Koa2微信公众号开发(三) 获取access_token打开新世界的大门](https://juejin.im/post/5a7163d7f265da3e5538386f)
 
 [Koa2微信公众号开发(四) 自定义公众号菜单](https://juejin.im/post/5a73c85f5188254e76177ae5)
+
+<br>
+
+**内网映射到公网（微信开发）**
+
+[将本地web服务映射到公网访问](https://segmentfault.com/a/1190000011827338)
+
+[Localtunnel（Node.js 版） 使用教程](https://segmentfault.com/a/1190000004323057)
+
+[Fiddler4入门——手机抓包](http://blog.csdn.net/shimengran107/article/details/78644862)
