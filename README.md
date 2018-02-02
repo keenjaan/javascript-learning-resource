@@ -18,6 +18,22 @@
 
 <br>
 
+**css BFC**
+
+[学习 BFC (Block Formatting Context)](https://juejin.im/post/59b73d5bf265da064618731d)
+
+[clear与BFC对浮动的影响](https://juejin.im/entry/59c3ed505188257e8a30b761)
+
+<br>
+
+**h5 vedio**
+
+[从零实现一个自定义 HTML5 播放器](https://juejin.im/post/596f536d51882526337caf15)
+
+[如何实现兼容 PC 和微信 H5 的全屏播放小视频](https://juejin.im/post/5a72b39ef265da3e2b16bfc0)
+
+<br>
+
 **es6学习资源**
 
 [阮一峰es6入门](http://es6.ruanyifeng.com/)
@@ -95,6 +111,8 @@
 [chrome浏览器如何断点调试异步加载的JS](http://www.jb51.net/article/91949.htm)
 
 [使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
+
+[Chrome DevTools - 性能监控](https://juejin.im/post/5a37b2f56fb9a0451e3fe73d)
 
 <br>
 
@@ -239,3 +257,15 @@ http://www.cnblogs.com/vajoy/
 [在Node.js中搭建缓存管理模块](http://www.infoq.com/cn/articles/built-cache-management-module-in-nodejs/)
 
 [Node.js服务器启用Gzip压缩](https://www.jianshu.com/p/1c9909f9b0e9)
+
+<br>
+
+**koa2 微信公总号开发**
+
+[Koa2微信公众号开发(一) 本地开发调试环境搭建](https://juejin.im/post/5a686d6ef265da3e484bfe8d)
+
+[Koa2微信公众号开发(二) 消息管理](https://juejin.im/post/5a6c558ef265da3e4b77030f)
+
+[Koa2微信公众号开发(三) 获取access_token打开新世界的大门](https://juejin.im/post/5a7163d7f265da3e5538386f)
+
+[Koa2微信公众号开发(四) 自定义公众号菜单](https://juejin.im/post/5a73c85f5188254e76177ae5)
