@@ -279,3 +279,11 @@ http://www.cnblogs.com/vajoy/
 [Localtunnel（Node.js 版） 使用教程](https://segmentfault.com/a/1190000004323057)
 
 [Fiddler4入门——手机抓包](http://blog.csdn.net/shimengran107/article/details/78644862)
+
+<br>
+
+**socket**
+
+[聊天室入门实战实现登录群聊功能](http://blog.csdn.net/neuq_zxy/article/details/76794551)
+
+[socket.io简易教程(群聊，发送图片，分组，私聊)](http://blog.csdn.net/neuq_zxy/article/details/77531126)
