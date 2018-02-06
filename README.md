@@ -16,6 +16,10 @@
 
 [javascript双等号引起的类型转换，js隐性类型转换步骤](http://www.haorooms.com/post/js_yinxingleixing)
 
+[javascript中new关键字详解](http://www.cnblogs.com/AaronNotes/p/6529492.html)
+
+[JS 的 new 到底是干什么的？](https://zhuanlan.zhihu.com/p/23987456?refer=study-fe)
+
 <br>
 
 **css BFC**
@@ -287,3 +291,15 @@ http://www.cnblogs.com/vajoy/
 [聊天室入门实战实现登录群聊功能](http://blog.csdn.net/neuq_zxy/article/details/76794551)
 
 [socket.io简易教程(群聊，发送图片，分组，私聊)](http://blog.csdn.net/neuq_zxy/article/details/77531126)
+
+**缩短网页打开时间**
+
+[H5首评秒开方案探讨](https://juejin.im/entry/5a7903b06fb9a06349127f29?utm_source=gold_browser_extension)
+
+[前端性能优化清单之一](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227729&idx=1&sn=1e2578c24fd239716ef67b73d54c19db&chksm=bd495fd58a3ed6c3ed3c260fdb0ecc43f791dcd05bafed0b1b7cd47fe1b368d19177028ebb08&scene=21#wechat_redirect)
+
+[2018 前端性能优化清单之二](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227743&idx=1&sn=0df7fe2d9d39c07723cd2d12d6a40675&chksm=bd495fdb8a3ed6cd817c26b3ea7ab122bb74e3314e6f368498e3befd3be2f80b77895a7fdac9&scene=21#wechat_redirect)
+
+[2018 前端性能优化清单之三](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227748&idx=1&sn=852df25adac18b9f3b12db08cd9e3284&chksm=bd495fe08a3ed6f62a065cbe3a2b8c110f102553f927cc639339285d800848bc5caa834295e9&scene=21#wechat_redirect)
+
+[2018 前端性能优化清单之四](https://mp.weixin.qq.com/s/f-j2BB4fGpPsaJTQXzKSeA)
