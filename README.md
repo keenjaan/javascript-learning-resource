@@ -276,6 +276,12 @@ http://www.cnblogs.com/vajoy/
 
 <br>
 
+**微信支付**
+
+[nodejs微信支付之扫码支付](https://juejin.im/post/5a8e84faf265da4e7e10c92f?utm_source=gold_browser_extension)
+
+<br>
+
 **内网映射到公网（微信开发）**
 
 [将本地web服务映射到公网访问](https://segmentfault.com/a/1190000011827338)
