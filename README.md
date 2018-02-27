@@ -276,12 +276,6 @@ http://www.cnblogs.com/vajoy/
 
 <br>
 
-**微信支付**
-
-[nodejs微信支付之扫码支付](https://juejin.im/post/5a8e84faf265da4e7e10c92f?utm_source=gold_browser_extension)
-
-<br>
-
 **内网映射到公网（微信开发）**
 
 [将本地web服务映射到公网访问](https://segmentfault.com/a/1190000011827338)
@@ -311,6 +305,8 @@ http://www.cnblogs.com/vajoy/
 [2018 前端性能优化清单之三](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227748&idx=1&sn=852df25adac18b9f3b12db08cd9e3284&chksm=bd495fe08a3ed6f62a065cbe3a2b8c110f102553f927cc639339285d800848bc5caa834295e9&scene=21#wechat_redirect)
 
 [2018 前端性能优化清单之四](https://mp.weixin.qq.com/s/f-j2BB4fGpPsaJTQXzKSeA)
+
+[通过express框架简单实践几种设置HTTP对缓存的控制](https://www.jianshu.com/p/3bc803a4313f)
 
 <br>
 
