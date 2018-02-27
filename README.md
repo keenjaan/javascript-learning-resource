@@ -292,6 +292,8 @@ http://www.cnblogs.com/vajoy/
 
 [socket.io简易教程(群聊，发送图片，分组，私聊)](http://blog.csdn.net/neuq_zxy/article/details/77531126)
 
+<br>
+
 **缩短网页打开时间**
 
 [H5首评秒开方案探讨](https://juejin.im/entry/5a7903b06fb9a06349127f29?utm_source=gold_browser_extension)
@@ -303,3 +305,27 @@ http://www.cnblogs.com/vajoy/
 [2018 前端性能优化清单之三](https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ==&mid=2651227748&idx=1&sn=852df25adac18b9f3b12db08cd9e3284&chksm=bd495fe08a3ed6f62a065cbe3a2b8c110f102553f927cc639339285d800848bc5caa834295e9&scene=21#wechat_redirect)
 
 [2018 前端性能优化清单之四](https://mp.weixin.qq.com/s/f-j2BB4fGpPsaJTQXzKSeA)
+
+<br>
+
+**preload预加载**
+
+[通过rel="preload"进行内容预加载](https://developer.mozilla.org/zh-CN/docs/Web/HTML/Preloading_content)
+
+[Preload，Prefetch 和它们在 Chrome 之中的优先级](https://www.w3cplus.com/performance/reloading/preload-prefetch-and-priorities-in-chrome.html)
+
+[关于Preload, 你应该知道些什么？](https://www.jianshu.com/p/24ffa6d45087)
+
+[Webpack 最佳实践总结](https://segmentfault.com/a/1190000010815848)
+
+<br>
+
+**redux 源码系列**
+
+[史上最全的 Redux 源码分析](https://segmentfault.com/a/1190000007737370)
+
+[解析 Redux 源码](https://segmentfault.com/a/1190000007092130)
+
+[Redux:百行代码千行文档](https://segmentfault.com/a/1190000009626788)
+
+[Redux 源码分析](https://github.com/jiechud/redux-source-analyze?1519711640497)
