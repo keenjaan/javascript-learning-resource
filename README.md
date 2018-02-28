@@ -331,3 +331,5 @@ http://www.cnblogs.com/vajoy/
 [Redux:百行代码千行文档](https://segmentfault.com/a/1190000009626788)
 
 [Redux 源码分析](https://github.com/jiechud/redux-source-analyze?1519711640497)
+
+[Redux:Middleware你咋就这么难](https://segmentfault.com/a/1190000008322583)
