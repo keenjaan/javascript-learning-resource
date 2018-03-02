@@ -335,3 +335,9 @@ http://www.cnblogs.com/vajoy/
 [Redux:Middleware你咋就这么难](https://segmentfault.com/a/1190000008322583)
 
 [Redux中的bindActionCreators](http://blog.csdn.net/liwusen/article/details/54138854)
+
+<br>
+
+**react-redux源码分析**
+
+[React-Redux源码分析](https://juejin.im/post/59cb5eba5188257e84671aca)
