@@ -333,3 +333,5 @@ http://www.cnblogs.com/vajoy/
 [Redux 源码分析](https://github.com/jiechud/redux-source-analyze?1519711640497)
 
 [Redux:Middleware你咋就这么难](https://segmentfault.com/a/1190000008322583)
+
+[Redux中的bindActionCreators](http://blog.csdn.net/liwusen/article/details/54138854)
