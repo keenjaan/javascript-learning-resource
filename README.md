@@ -345,3 +345,16 @@ http://www.cnblogs.com/vajoy/
 **react-redux源码分析**
 
 [React-Redux源码分析](https://juejin.im/post/59cb5eba5188257e84671aca)
+
+<br>
+
+**js设计模式**
+
+[JS中的柯里化(currying)](http://www.zhangxinxu.com/wordpress/2013/02/js-currying/)
+
+<br>
+
+**前端页面渲染**
+
+[浅析前端页面渲染机制](https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912)
+
