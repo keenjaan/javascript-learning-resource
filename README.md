@@ -89,12 +89,17 @@
 
 <br>
 
-
 **浏览器渲染原理**
+
+[浅析前端页面渲染机制](https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912)
 
 [浏览器的渲染：过程与原理](https://zhuanlan.zhihu.com/p/29418126)
 
+[浏览器的回流与重绘 (Reflow & Repaint)](https://juejin.im/post/5a9923e9518825558251c96a)
+
 [「前端那些事儿」① 浏览器渲染引擎](https://juejin.im/post/59f5bbdb6fb9a0451968d851)
+
+[2018 前端性能优化清单](https://juejin.im/post/5a966bd16fb9a0635172a50a)
 
 <br>
 
@@ -117,6 +122,8 @@
 [使用 Chrome Timeline 来优化页面性能](https://blog.coding.net/blog/Chome-Timeline)
 
 [Chrome DevTools - 性能监控](https://juejin.im/post/5a37b2f56fb9a0451e3fe73d)
+
+[超完整的Chrome浏览器客户端调试大全](http://blog.csdn.net/u010794365/article/details/77966885)
 
 <br>
 
@@ -354,7 +361,5 @@ http://www.cnblogs.com/vajoy/
 
 <br>
 
-**前端页面渲染**
 
-[浅析前端页面渲染机制](https://zhuanlan.zhihu.com/p/26105913?group_id=831106735610662912)
 
