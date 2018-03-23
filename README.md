@@ -371,3 +371,7 @@ http://www.cnblogs.com/vajoy/
 
 <br>
 
+**http**
+
+[软件工程师需要了解的网络知识](http://mp.weixin.qq.com/s?__biz=MzA5MDIyNTM3Mw==&mid=2666576403&idx=1&sn=e44e39d8ce0b7576d37e93d713c03e4d&chksm=8b0af5a1bc7d7cb74a2ac0ff02d30d168ed2f7f9cbdaddd7492025ee9fa579126ad8355d886f&mpshare=1&scene=23&srcid=03237Vzui3N3vL9LRthjcfFx#rd)
+
