@@ -368,3 +368,6 @@ http://www.cnblogs.com/vajoy/
 [微信小程序实例：创建下发模板消息实例](https://blog.csdn.net/eadio/article/details/53609193)
 
 [获取小程序模板消息的formId-微信小程序支付开发18](https://211.qinziheng.com/lesson/497/)
+
+<br>
+
