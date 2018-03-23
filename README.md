@@ -361,8 +361,8 @@ http://www.cnblogs.com/vajoy/
 
 <br>
 
-**文档编辑工具**
+**小程序模板消息推送**
 
-[docute](https://github.com/egoist/docute)
+[开发 | 教你突破小程序模板消息的推送限制](http://www.sohu.com/a/160045557_603236?qq-pf-to=pcqq.group)
 
-[docsify](https://github.com/QingWei-Li/docsify/)
+[微信小程序实例：创建下发模板消息实例](https://blog.csdn.net/eadio/article/details/53609193)
