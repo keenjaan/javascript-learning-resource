@@ -366,3 +366,5 @@ http://www.cnblogs.com/vajoy/
 [开发 | 教你突破小程序模板消息的推送限制](http://www.sohu.com/a/160045557_603236?qq-pf-to=pcqq.group)
 
 [微信小程序实例：创建下发模板消息实例](https://blog.csdn.net/eadio/article/details/53609193)
+
+[获取小程序模板消息的formId-微信小程序支付开发18](https://211.qinziheng.com/lesson/497/)
