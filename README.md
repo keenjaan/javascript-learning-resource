@@ -313,6 +313,8 @@ http://www.cnblogs.com/vajoy/
 
 [2018 前端性能优化清单之四](https://mp.weixin.qq.com/s/f-j2BB4fGpPsaJTQXzKSeA)
 
+[DOM 操作成本到底高在哪儿？](https://mp.weixin.qq.com/s?__biz=MzUzOTM0MTE4OQ==&mid=2247484082&idx=1&sn=26a937d78b889059938b47d18f4f7d42&chksm=fac8ba58cdbf334edcbb08c0d8ba422c798ac42793e5c3bbfc79f5b8d17b572b4f0d317f7477&mpshare=1&scene=23&srcid=0409aU38xpLta8TtfMrf4Uzx#rd)
+
 <br>
 
 **后端设置前端文件缓存**
