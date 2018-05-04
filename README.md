@@ -406,3 +406,14 @@ http://www.cnblogs.com/vajoy/
 [easy mock](https://www.easy-mock.com/docs)
 
 [yapi](https://yapi.ymfe.org/)
+
+<br>
+
+**vue源码系列**
+
+[【大型干货】手拉手带你过一遍vue部分源码](https://juejin.im/post/5adff30f518825672d33d596)
+
+[Vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/)
+
+[vue-code-review](http://jiongks.name/blog/vue-code-review/)
+
