@@ -417,3 +417,11 @@ http://www.cnblogs.com/vajoy/
 
 [vue-code-review](http://jiongks.name/blog/vue-code-review/)
 
+[vue中SFC文件解析为SFCDescriptor的流程](https://meixg.cn/2018/04/23/vue-sfc-parser/)
+
+<br>
+
+**虚拟dom**
+
+[snabbdom](https://github.com/snabbdom/snabbdom)
+
