@@ -419,6 +419,8 @@ http://www.cnblogs.com/vajoy/
 
 [vue中SFC文件解析为SFCDescriptor的流程](https://meixg.cn/2018/04/23/vue-sfc-parser/)
 
+[深入vue2.0底层思想–模板渲染](http://web.jobbole.com/91819/)
+
 <br>
 
 **虚拟dom**
