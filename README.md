@@ -70,6 +70,8 @@
 
 [XSS解决方案系列之一：淘宝、百度、腾讯的解决方案之瑕疵](http://www.freebuf.com/articles/web/9928.html)
 
+[csrf攻击防御](https://www.cnblogs.com/cxying93/p/6035031.html)
+
 
 <br>
 
